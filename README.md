@@ -1,7 +1,7 @@
 <h1 align="center">Omaury Marmolejo</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=omauryMarmolejo&mode=weekly" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=omauryMarmolejo&mode=weekly" alt="GitHub Streak" />
 </p>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmauryMarmolejo" height="200" />
